@@ -1,0 +1,3 @@
+include ':retrofitpractice'
+include ':app'
+rootProject.name = "AD SDK Practice"
